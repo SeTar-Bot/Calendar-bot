@@ -14,7 +14,7 @@ Or use `run.bat` to install the recommended modules and run bot
 <br><br>
 You can change the bot prefix in `index.js` at line 25
 #
-<br>
+<br><br>
 **آموزش نصب**
 <br><br>
 را بر روی سیستم خود نصب کرده باشید <a href="https://nodejs.org/en/">Node.js</a> اول از همه شما باید 
